@@ -1,0 +1,4 @@
+sku,barcode,productName,isMasterProduct,isVarientProduct,varientitem,master_product_parent,categoryname,subcategoryname,brandname,minimumQuantity,cost,price,productDescription,isActive,isFeatured,inventory
+0120-001,,"6"" Socket Wrench",TRUE,TRUE,,Socket Wrench,,,,12,4,12,6&amp;quot; Socket Wrench,TRUE,FALSE,1600
+0120-001,,"6"" Socket Wrench",Treu,TRUE,,Socket Wrench,,,,12,4,12,6&amp;quot; Socket Wrench,TRUE,FALSE,1600
+0120-001,,"6"" Socket Wrench",FASLE,TRUE,,Socket Wrench,,,,12,4,12,6&amp;quot; Socket Wrench,TRUE,FALSE,1600

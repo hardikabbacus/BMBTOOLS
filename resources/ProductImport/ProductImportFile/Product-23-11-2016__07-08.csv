@@ -1,0 +1,5 @@
+sku,barcode,productName,isMasterProduct,isVarientProduct,varientitem,master_product_parent,categoryname,subcategoryname,brandname,minimumQuantity,cost,price,productDescription,isActive,isFeatured,inventory
+001-002-003,45,Product 5,False,True,350 x 310,Master Product,,,,3,3,216666.660007,fgfh,True,False,5
+001-002-0035,,test product,False,True,,Master Product 3,,,,5,5,233333.500703,test product,True,False,6
+01-005-007,,Product 2,False,False,Product 2,,Category 1,,Honda,2,887,266667.670066,,True,False,200
+1111111111,,Product 3,False,False,,,Category 1,,Koala,21,21,266667,,False,False,200

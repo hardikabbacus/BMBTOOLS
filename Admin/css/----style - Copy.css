@@ -1,0 +1,43 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.select2-container--default .select2-selection--single {  background-color: #fff;  border: 1px solid #ccc;  border-radius: 0;  height: 34px;  padding: 6px 12px;}
+.select2-container--default .select2-selection--single .select2-selection__arrow{ top:4px; display:none;}
+.col-sm-4.close_btn > label {  float: left;  text-align: left;  width: 70%;}
+.col-sm-4.close_btn > input {  float: right;}
+.box-body .subpro tr td a{color: #333;    float: left;    margin-left: 20px;    padding: 2px 0;}
+.box-body tr td a.anc_cat {  float: right;}.
+.box-body .data_cat{  width: 100% !important;}
+.box-body .data_cat tr{ width:100%;float: left;    padding: 5px 0;}
+.box-body .data_cat tr td{ width:320px;}
+.box-body .data_cat tr td a{ color:#000;}
+.box-body .data_cat tr td a:hover{ color:#E9521C;}
+.box-body .data_cat tr td .subpro tr{ padding:3px 0;}
+.box-body .data_cat tr td .subpro tr td a{ color:#666;}
+.box-body .data_cat tr td .subpro tr td a:hover{ color:#000;}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side{background-color: #ededed !important;}
+.skin-blue .user-panel > .info, .skin-blue .user-panel > .info > a {  color: #000;}
+.skin-blue .sidebar-menu > li > a{ color:#000;}
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a {  background: #fff none repeat scroll 0 0;  border-left-color: #e9521c;  color: #000;}
+.skin-blue .sidebar-menu > li.header {  background: #ccc none repeat scroll 0 0;  color: #000;}
+.skin-blue .main-header li.user-header{ background:#e9521c;}
+.nav-tabs-custom > .nav-tabs > li.active{border-top-color: #e9521c;}
+.btn-default {  background-color: #e9521c;  border-color: #e9521c;  color: #fff;}
+.btn-default:hover, .btn-default:active, .btn-default.hover {  background-color: #ea7348; border-color:#ea7348;}
+.skin-blue .main-header .navbar .sidebar-toggle{ background:#ea7348;}
+.skin-blue .main-header .navbar .sidebar-toggle:hover{background:#ea7348;}
+.skudiv{ background: #fff none repeat scroll 0 0;float: left;margin-top: 10px;padding: 10px 0;width: 100%;}
+.pricediv{background: #fff none repeat scroll 0 0;float: left;margin-top: 10px;padding: 10px 0;width: 100%;}
+
+/* hardik 21-09-2016 */
+
+.uploadArea{ min-height:300px; height:auto; border:1px dotted #ccc; padding:10px; cursor:move; margin-bottom:10px; position:relative;}
+h1, h5{ padding:0px; margin:0px; }
+h1.title{ font-family:'Boogaloo', cursive; padding:10px; }
+.uploadArea h1{ color:#ccc; width:100%; z-index:0; text-align:center; vertical-align:middle; position:absolute; top:25px;}
+.dfiles{ clear:both; border:1px solid #ccc; background-color:#E4E4E4; padding:3px;  position:relative; height:25px; margin:3px; z-index:1; width:97%; opacity:0.6; cursor:default;}
+h5{ width:95%; line-height:25px;}
+h5, h5 img {  float:left;  }
+.invalid { border:1px solid red !important; }
+.buttonUpload { display:inline-block; padding: 4px 10px 4px; text-align: center; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); background-color: #0074cc; -webkit-border-radius: 4px;-moz-border-radius: 4px; border-radius: 4px; border-color: #e6e6e6 #e6e6e6 #bfbfbf; border: 1px solid #cccccc; color:#fff; }
+.progress img{ margin-top:7px; margin-left:24px; }

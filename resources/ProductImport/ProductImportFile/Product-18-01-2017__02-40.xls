@@ -1,0 +1,32 @@
+sku	barcode	productName	isMasterProduct	isVarientProduct	varientitem	master_product_parent	categoryname	subcategoryname	brandname	minimumQuantity	cost	price	productDescription	isActive	isFeatured	inventory
+001-002-003	45	Product 5	False	True	10 mm	Master Product				3	3.00	3.00	fgfh	True	False	5
+001-002-0035		test product	False	True		Master Product 3				5	5.00	5.00	test product&amp;lt;br /&amp;gt;	True	False	6
+001-0024-3256		master product 9	True	False	master product 9		Category 1		test	0	0.00	0.00	master product 9	True	False	0
+01-005-007		Product 2	False	False	Product 2		Category 1		test	2	8787.00	8787.00	&amp;amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;amp;gt;	True	False	200
+0110-1001-001		master product 10	True	False			Category 1		test	0	0.00	0.00	0110-1001-001	True	False	0
+098-890-7678		Master Product Csv	True	False			Category 1		test	0	0.00	0.00		True	False	0
+1111111		master to Product	True	False				CATEGORY	test	0	0.00	0.00	master to Product	True	False	0
+1111111111		Product 3	False	False			Category 3		Honda	21	122.00	122.00	&amp;amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;amp;gt;	False	False	200
+123907		test popup	True	False			Category 1		test	0	0.00	0.00	test popup	True	False	0
+124533		Master Product 3	True	False	Master Product 3		Category 1		Spice	0	0.00	0.00	Master Product	False	False	0
+159-753-852-654		product 9	False	False			Category 7		Honda	1	0.50	0.50	product 9	True	False	2
+23232		Master Product	True	False	Master Product		Category 1	SAMSUG	Spice	0	0.00	0.00	dasd	False	False	0
+333-333-333	45	Product 10	False	False	Product 10		Category 1		test	3	333.00	33.00	Product 10	False	False	200
+34		34 tools set	True	False			Category 2		test	0	0.00	0.00	34 tools set	True	False	0
+3454		tttttt	False	False				SAMSUG	Spice	8	7.00	0.00	tttttt<br />	True	False	100
+369-852-147	45	Product 8	False	True		Master Product				3	3.00	3.00	fgfh	True	False	30
+42244224		master product 12	True	False			Category 1		test	0	0.00	0.00	master product 12	True	False	0
+555555555555		Master Product 5	True	False	Master Product 5		Category 1		test	0	0.00	0.00	hihiihih	False	False	0
+564565465		gdfg	True	False			Category 1		Koala	0	0.00	0.00	ghgfh	True	False	0
+56-56-56		master product 11	True	False			Category 1		test	0	0.00	0.00	master product 11	True	False	0
+7411		Master Product 6	True	False	Master Product 6		Category 1		Spice	0	0.00	0.00		False	False	0
+7455	222	Product 4	False	False			Category 1		Spice	22	222.00	222.00	bbbbbbbbbb&amp;amp;amp;amp;amp;amp;lt;br /&amp;amp;amp;amp;amp;amp;gt;	False	False	200
+7777		master product 13	True	False				CATEGORY	Koala	0	0.00	0.00	master product 13	True	False	0
+8325-3685-222	5000	Product 6	False	True		Master Product 1				4	100.00	100.00	454	True	True	200
+888-888		Master Product 4	True	False	Master Product 4		Category 1		Honda	0	0.00	0.00	sku by sku	False	False	0
+923-329-329		Product 7	False	True						3	3.00	3.00	test sku by name	True	False	200
+98-00-22-45		mater product tests	True	False	mater product tests					0	0.00	0.00	mater product tests	True	False	0
+98745		Master Product 1	True	False	Master Product 1		Category 1		Spice	0	0.00	0.00	flmlm	False	False	0
+98-96-65-58		master product test	True	False			Category 1		test	0	0.00	0.00	master product test	True	False	0
+9999999		master product name	True	False			Category 1		test	0	0.00	0.00	master product name	True	False	0
+draga and drop product		draga and drop product	True	False			Category 1		Honda	0	0.00	0.00	draga and drop product	True	False	0

@@ -1,0 +1,30 @@
+productId,productName,productDescription,sku,barcode,isVarientProduct,isMasterProduct,price,cost,minimumQuantity,inventory,isActive,isFeatured
+2,Plier|Adjestable Wrench & Measuring tap Tool Set,"Plier|Adjestable Wrench &amp;amp; Measuring tap Tool Set",01-0001-001,,False,False,120.00,1500.00,14,1050,False,False
+24,6" Rubber Handle Adjustable Wrench,6&amp;quot; Rubber Handle Adjustable Wrench&amp;nbsp;,0123-001,1414901230012,False,False,6.00,3.55,12,50,True,False
+32,200g Fiber Handle Hammer,200g Fiber Handle Hammer,0001-001,,True,False,4.50,2.50,12,450,True,False
+48,300g Fiber Handle Hammer,300g Fiber Handle Hammer,0001-002,,True,False,6.00,3.50,6,543,True,True
+49,500g Fiber Handle Hammer,500g Fiber Handle Hammer,0001-003,,True,False,7.00,4.00,6,989,True,True
+50,1000g Fiber Handle Hammer,1000g Fiber Handle Hammer,0001-004,,True,False,7.00,7.00,12,13,True,True
+51,1500g Fiber Handle Hammer,1500g Fiber Handle Hammer,0001-005,,True,False,7.00,7.00,12,208,True,True
+53,250g Fiber Handle Claw Hammer,250g Fiber Handle Claw Hammer,0013-001,,True,False,10.00,5.87,6,648,True,True
+54,500g Fiber Handle Claw Hammer,500g Fiber Handle Claw Hammer,0013-002,,True,False,13.00,7.80,6,749,True,True
+55,500g Heavy Duty Claw Hammer,500g Heavy Duty Claw Hammer,0025-002,,False,False,25.00,9.98,6,447,True,True
+60,Adjustable Angel Grinder Pin Wrench,Adjustable Angel Grinder Pin Wrench,0182-003,,False,False,12.00,3.50,6,213,True,False
+63,6" Fixed Black Rubber Heavy Duty Wheel Fixed,,1033-001,7300010330016,True,False,3.00,1.67,12,1000,True,True
+68,6lb Slegde Hammer with Fiberglass Handle ,6lb Slegde Hammer with Fiberglass Handle&amp;nbsp;,0042-001,,True,False,45.00,30.00,6,1465,True,False
+69,8lb Slegde Hammer with Fiberglass Handle ,8lb Slegde Hammer with Fiberglass Handle&amp;nbsp;,0042-002,,True,False,55.00,35.00,6,146,True,False
+70,10lb Slegde Hammer with Fiberglass Handle ,10lb Slegde Hammer with Fiberglass Handle&amp;nbsp;,0042-003,,True,False,65.00,40.00,6,147,True,False
+71,12lb Slegde Hammer with Fiberglass Handle ,12lb Slegde Hammer with Fiberglass Handle&amp;nbsp;,0042-004,,True,False,70.00,43.36,6,197,True,False
+72,14lb Slegde Hammer with Fiberglass Handle ,14lb Slegde Hammer with Fiberglass Handle&amp;nbsp;,0042-005,,True,False,70.00,43.36,6,197,True,False
+73,400g White Rubber Mallet Hammer with Fiber Handle,400g White Rubber Mallet Hammer with Fiber Handle,0072-001,,True,False,9.00,4.53,6,183,True,False
+74,500g White Rubber Mallet Hammer with Fiber Handle,500g White Rubber Mallet Hammer with Fiber Handle,0072-002,,True,False,11.00,5.24,6,725,True,False
+75,600g White Rubber Mallet Hammer with Fiber Handle,600g White Rubber Mallet Hammer with Fiber Handle,0072-003,,True,False,12.00,5.80,6,276,True,False
+76,750g White Rubber Mallet Hammer with Fiber Handle,750g White Rubber Mallet Hammer with Fiber Handle,0072-004,,True,False,15.00,7.51,6,256,True,False
+78,1000g White Rubber Mallet Hammer with Fiber Handle,1000g White Rubber Mallet Hammer with Fiber Handle,0072-005,,True,False,20.00,10.59,6,251,True,False
+80,600g Axe with Fiberglass Handle,600g Axe with Fiberglass Handle,0090-001,,True,False,18.00,9.59,6,262,True,False
+81,Axe with Wooden Hammer,Axe with Wooden Hammer,96,,True,False,20.00,11.13,6,369,True,False
+84,Rubber Handle Adjustable Wrench,Rubber Handle Adjustable Wrench,123,,True,False,20.00,11.13,6,369,True,False
+85,1250g Axe with Fiberglass Handle,1250g Axe with Fiberglass Handle,0090-004,,True,False,30.00,17.49,6,293,True,False
+86,1000g Axe with Fiberglass Handle,1000g Axe with Fiberglass Handle,0090-003,,True,False,23.00,14.00,6,10,True,False
+88,6" Socket Wrench,6&amp;quot; Socket Wrench,0120-001,,True,False,12.00,4.00,12,1600,True,False
+89,test product for imag,test product for imag,0352-002,,False,False,12.00,6.00,12,24,True,False

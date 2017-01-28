@@ -1,0 +1,73 @@
+sku,barcode,productName,isMasterProduct,isVarientProduct,varientitem,master_product_parent,categoryname,subcategoryname,brandname,minimumQuantity,cost,price,productDescription,isActive,isFeatured,inventory
+01-0001-001,,Plier|Adjestable Wrench & Measuring tap Tool Set,FALSE,FALSE,,,Hand Tools,Screwdrivers,BMB TOOLS,14,1500,120,Plier|Adjestable Wrench &amp;amp;amp;amp; Measuring tap Tool Set,FALSE,TRUE,1050
+0123-001,1414901230012,"6"" Rubber Handle Adjustable Wrench",FALSE,FALSE,,,Hand Tools,Screwdrivers,BMB TOOLS,12,3.55,6,6&amp;amp;quot; Rubber Handle Adjustable Wrench&amp;amp;nbsp;,TRUE,FALSE,50
+0001-001,,200g Fiber Handle Hammer,FALSE,TRUE,,Fiber Handle Hammer,,,,12,2.5,4.5,200g Fiber Handle Hammer,TRUE,FALSE,450
+0001,,Fiber Handle Hammer,TRUE,FALSE,,,Hand Tools,Hammers,BMB TOOLS,0,0,0,Fiber Handle Hammer,TRUE,FALSE,0
+0001-002,,300g Fiber Handle Hammer,FALSE,TRUE,,Fiber Handle Hammer,,,,6,3.5,6,300g Fiber Handle Hammer,TRUE,TRUE,543
+0001-003,,500g Fiber Handle Hammer,FALSE,TRUE,,Fiber Handle Hammer,,,,6,4,7,500g Fiber Handle Hammer,TRUE,TRUE,989
+0001-004,,1000g Fiber Handle Hammer,FALSE,TRUE,,Fiber Handle Hammer,,,,12,7,7,1000g Fiber Handle Hammer,TRUE,TRUE,23
+0001-005,,1500g Fiber Handle Hammer,FALSE,TRUE,,Fiber Handle Hammer,,,,12,7,7,1500g Fiber Handle Hammer,TRUE,TRUE,208
+0013,,Fiber Handle Claw Hammer,TRUE,FALSE,,,Hand Tools,Hammers,BMB TOOLS,0,0,0,Fiber Handle Claw Hammer,TRUE,FALSE,0
+0013-001,,250g Fiber Handle Claw Hammer,FALSE,TRUE,,Fiber Handle Claw Hammer,,,,6,5.87,10,250g Fiber Handle Claw Hammer,TRUE,TRUE,648
+0013-002,,500g Fiber Handle Claw Hammer,FALSE,TRUE,,Fiber Handle Claw Hammer,,,,6,7.8,13,500g Fiber Handle Claw Hammer,TRUE,TRUE,749
+0025-002,,500g Heavy Duty Claw Hammer,FALSE,FALSE,,,Hand Tools,Screwdrivers,BMB TOOLS,6,9.98,25,500g Heavy Duty Claw Hammer,TRUE,TRUE,447
+0182-003,,Adjustable Angel Grinder Pin Wrench,FALSE,FALSE,,,Power Tools,Grinder Accessories,BMB TOOLS,6,3.5,12,Adjustable Angel Grinder Pin Wrench,TRUE,TRUE,213
+1033,,Fixed Black Rubber Heavy Duty Wheel Fixed,TRUE,FALSE,,,Industrial Hardware,Wheels,BMB TOOLS,0,0,0,Fixed Black Rubber Heavy Duty Wheel Fixed,TRUE,FALSE,0
+1033-001,7300010330016,"6"" Fixed Black Rubber Heavy Duty Wheel Fixed",FALSE,TRUE,,Fixed Black Rubber Heavy Duty Wheel Fixed,,,,12,1.67,3,,TRUE,TRUE,1000
+0042,,Slegde Hammer with Fiberglass Handle,TRUE,FALSE,,,Hand Tools,Hammers,BMB TOOLS,0,0,0,Slegde Hammer with Fiberglass Handle,TRUE,FALSE,0
+0072,,White Rubber Mallet Hammer with Fiber Handle,TRUE,FALSE,,,Hand Tools,Hammers,BMB TOOLS,0,0,0,White Rubber Mallet Hammer with Fiber Handle,TRUE,FALSE,0
+0042-001,,6lb Slegde Hammer with Fiberglass Handle,FALSE,TRUE,,Slegde Hammer with Fiberglass Handle,,,,6,30,45,6lb Slegde Hammer with Fiberglass Handle&amp;amp;nbsp;,TRUE,TRUE,1465
+0042-002,,8lb Slegde Hammer with Fiberglass Handle,FALSE,TRUE,,Slegde Hammer with Fiberglass Handle,,,,6,35,55,8lb Slegde Hammer with Fiberglass Handle&amp;amp;nbsp;,TRUE,TRUE,146
+0042-003,,10lb Slegde Hammer with Fiberglass Handle,FALSE,TRUE,,Slegde Hammer with Fiberglass Handle,,,,6,40,65,10lb Slegde Hammer with Fiberglass Handle&amp;amp;nbsp;,TRUE,TRUE,45
+0042-004,,12lb Slegde Hammer with Fiberglass Handle,FALSE,TRUE,,Slegde Hammer with Fiberglass Handle,,,,6,43.36,70,12lb Slegde Hammer with Fiberglass Handle&amp;amp;nbsp;,TRUE,TRUE,197
+0042-005,,14lb Slegde Hammer with Fiberglass Handle,FALSE,TRUE,,Slegde Hammer with Fiberglass Handle,,,,6,43.36,70,14lb Slegde Hammer with Fiberglass Handle&amp;amp;nbsp;,TRUE,TRUE,197
+0072-001,,400g White Rubber Mallet Hammer with Fiber Handle,FALSE,TRUE,,White Rubber Mallet Hammer with Fiber Handle,,,,6,4.53,9,400g White Rubber Mallet Hammer with Fiber Handle,TRUE,TRUE,500
+0072-002,,500g White Rubber Mallet Hammer with Fiber Handle,FALSE,TRUE,,White Rubber Mallet Hammer with Fiber Handle,,,,6,5.24,11,500g White Rubber Mallet Hammer with Fiber Handle,TRUE,TRUE,500
+0072-003,,600g White Rubber Mallet Hammer with Fiber Handle,FALSE,TRUE,,White Rubber Mallet Hammer with Fiber Handle,,,,6,5.8,12,600g White Rubber Mallet Hammer with Fiber Handle,TRUE,TRUE,500
+0072-004,,750g White Rubber Mallet Hammer with Fiber Handle,FALSE,TRUE,,White Rubber Mallet Hammer with Fiber Handle,,,,6,7.51,15,750g White Rubber Mallet Hammer with Fiber Handle,TRUE,TRUE,500
+0072-005,,1000g White Rubber Mallet Hammer with Fiber Handle,FALSE,TRUE,,White Rubber Mallet Hammer with Fiber Handle,,,,6,10.59,20,1000g White Rubber Mallet Hammer with Fiber Handle,TRUE,TRUE,500
+0090,,Axe with Fiberglass Handle,TRUE,FALSE,Axe with Fiberglass Handle,,Industrial Hardware,,BMB TOOLS,0,0,0,Axe with Fiberglass Handle,TRUE,FALSE,0
+0090-001,,600g Axe with Fiberglass Handle,FALSE,TRUE,,Axe with Fiberglass Handle,,,,6,9.59,18,600g Axe with Fiberglass Handle,TRUE,TRUE,262
+0090-004,,1250g Axe with Fiberglass Handle,FALSE,TRUE,,Axe with Fiberglass Handle,,,,6,17.49,30,1250g Axe with Fiberglass Handle,TRUE,TRUE,350
+0090-003,,1000g Axe with Fiberglass Handle,FALSE,TRUE,,Axe with Fiberglass Handle,,,,6,14,23,1000g Axe with Fiberglass Handle,TRUE,TRUE,20
+0120,,Socket Wrench,TRUE,FALSE,,,Hand Tools,,BMB TOOLS,0,0,0,Socket Wrench,TRUE,FALSE,0
+0120-001,,6'' Socket Wrench,FALSE,TRUE,,Socket Wrench,,,,12,4,12,6&amp;amp;quot; Socket Wrench,TRUE,FALSE,1600
+0352-002,,test product for images,FALSE,FALSE,,,Power Tools,,BMB TOOLS,12,6,12,test product for imag,TRUE,TRUE,24
+0149-001,,Gear Wrench Set 8PCS (8mm-15mm),FALSE,FALSE,,,Hand Tools,,BMB TOOLS,3,0,85,Gear Wrench Set 8PCS (8mm-15mm),TRUE,FALSE,83
+0145-001,,Gear Wrench 8mm,FALSE,TRUE,,Gear Wrench,,,,12,0,8,Gear Wrench 8mm,TRUE,FALSE,408
+0145-002,,Gear Wrench 10mm,FALSE,TRUE,,Gear Wrench,,,,12,0,10,Gear Wrench 10mm,TRUE,FALSE,408
+0145-003,,Gear Wrench 12mm,FALSE,TRUE,,Gear Wrench,,,,12,0,12,Gear Wrench 12mm,TRUE,FALSE,122
+0145-004,,Gear Wrench 13mm,FALSE,TRUE,,Gear Wrench,,,,12,0,13,Gear Wrench 13mm,TRUE,FALSE,122
+123456789,123456789,Iphone,FALSE,FALSE,,,Cutting Tools,,LAWAZIM,10,10,10,iphone&amp;lt;BRS&amp;gt;SRN,TRUE,FALSE,50
+0145,,Gear Wrench,TRUE,FALSE,,,Hand Tools,,BMB TOOLS,0,0,0,Gear Wrench,TRUE,FALSE,0
+0120,,Socket Wrench,TRUE,FALSE,,,Hand Tools,,BMB TOOLS,0,0,0,Socket Wrench,TRUE,FALSE,0
+0352-022,,test product for images,FALSE,FALSE,,,Power Tools,,BMB TOOLS,12,6,12,test product for imag,TRUE,TRUE,24
+01-0055-001,1414910000000,3PC Plier Set,FALSE,FALSE,,,,Screwdrivers,LAWAZIM,6,13.07,26.17,Includes the following sizes,TRUE,FALSE,754
+01-0050-022,1414910000000,Test 6PC Precision Screwdrivers,FALSE,FALSE,,,,Screwdrivers,LAWAZIM,12,2.01,4,Includes the following sizes,TRUE,FALSE,753
+01-0001,,Heavy Duty Screwdriver - Philips,TRUE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,0,0,0,CVR Metal with Magnetic head,TRUE,FALSE,0
+01-0001-001,1388110010010,"4"" Heavy Duty Screwdriver - Philips",FALSE,TRUE,"4""",Heavy Duty Screwdriver - Philips,,,,12,1.206,2.416666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0001-002,1388110010027,"5""  Heavy Duty Screwdriver - Philips",FALSE,TRUE,"5""",Heavy Duty Screwdriver - Philips,,,,12,1.273,2.583333333,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0001-003,1388110010034,"6""  Heavy Duty Screwdriver - Philips",FALSE,TRUE,"6""",Heavy Duty Screwdriver - Philips,,,,12,1.34,2.666666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0001-004,1388110010041,"8""  Heavy Duty Screwdriver - Philips",FALSE,TRUE,"8""",Heavy Duty Screwdriver - Philips,,,,12,1.474,2.916666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0001-005,1388110010058,"10"" Heavy Duty Screwdriver - Philips",FALSE,TRUE,"10""",Heavy Duty Screwdriver - Philips,,,,12,1.608,3.25,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0001-006,1388110010065,"12"" Heavy Duty Screwdriver - Philips",FALSE,TRUE,"12""",Heavy Duty Screwdriver - Philips,,,,12,1.742,3.5,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002,,Heavy Duty Screwdriver - Slotted,TRUE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,0,0,0,CVR Metal with Magnetic head,TRUE,FALSE,0
+01-0002-001,1388110020019,"4"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"4""",Heavy Duty Screwdriver - Slotted,,,,12,1.206,2.416666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002-002,1388110020026,"5"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"5""",Heavy Duty Screwdriver - Slotted,,,,12,1.273,2.583333333,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002-003,1388110020033,"6"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"6""",Heavy Duty Screwdriver - Slotted,,,,12,1.34,2.666666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002-004,1388110020040,"8"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"8""",Heavy Duty Screwdriver - Slotted,,,,12,1.474,2.916666667,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002-005,1388110020057,"10"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"10""",Heavy Duty Screwdriver - Slotted,,,,12,1.608,3.25,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0002-006,1388110020064,"12"" Heavy Duty Screwdriver - Slotted",FALSE,TRUE,"12""",Heavy Duty Screwdriver - Slotted,,,,12,1.742,3.5,CVR Metal with Magnetic head,TRUE,FALSE,740
+01-0005,,Line Color Screwdriver - Philips,TRUE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,0,0,0,,TRUE,FALSE,0
+01-0005-001,1384710050012,"4"" Line Color Screwdriver - Philips",FALSE,TRUE,"4""",Line Color Screwdriver - Philips,,,,12,0.804,1.583333333,CVR Metal with Magnetic head,TRUE,FALSE,742
+01-0005-002,1384710050029,"5"" Line Color Screwdriver - Philips",FALSE,TRUE,"5""",Line Color Screwdriver - Philips,,,,12,0.871,1.75,CVR Metal with Magnetic head,TRUE,FALSE,743
+01-0005-003,1384710050036,"6"" Line Color Screwdriver - Philips",FALSE,TRUE,"6""",Line Color Screwdriver - Philips,,,,12,0.938,1.916666667,CVR Metal with Magnetic head,TRUE,FALSE,744
+01-0006,,Line Color Screwdriver - Slotted,TRUE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,0,0,0,,TRUE,FALSE,0
+01-0006-001,1384710060011,"4"" Line Color Screwdriver - Slotted",FALSE,TRUE,"4""",Line Color Screwdriver - Slotted,,,,12,0.804,1.583333333,CVR Metal with Magnetic head,TRUE,FALSE,746
+01-0006-002,1384710060028,"5"" Line Color Screwdriver - Slotted",FALSE,TRUE,"5""",Line Color Screwdriver - Slotted,,,,12,0.871,1.75,CVR Metal with Magnetic head,TRUE,FALSE,747
+01-0006-003,1384710060035,"6"" Line Color Screwdriver - Slotted",FALSE,TRUE,"6""",Line Color Screwdriver - Slotted,,,,12,0.938,1.916666667,CVR Metal with Magnetic head,TRUE,FALSE,748
+01-0020,,Multifunction Screwdriver ,TRUE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,0,0,0,,TRUE,FALSE,0
+01-0020-001,1388110200015,Multifunction Screwdriver  - Small,FALSE,TRUE,Small,Multifunction Screwdriver ,,,,6,4.69,9.416666667,Includes the following sizes,TRUE,FALSE,750
+01-0020-002,1388110200022,Multifunction Screwdriver - Large,FALSE,TRUE,Large,Multifunction Screwdriver ,,,,6,6.7,13.41666667,Includes the following sizes,TRUE,FALSE,751
+01-0050-001,1414910500014,6PC Precision Screwdrivers,FALSE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,12,2.01,4,Includes the following sizes,TRUE,FALSE,753
+01-0055-001,1414910550019,3PC Plier Set,FALSE,FALSE,,,Hand Tools,Screwdrivers,Lawazim,6,13.065,26.16666667,Includes the following sizes,TRUE,FALSE,754
